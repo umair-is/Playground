@@ -1,0 +1,1 @@
+{"collectableEvents":[{"id":2345,"eventTitle":"Snowflak","eventDescription":"Let's Start Holiday Adventures!","eventTime":{"startTime":"2024-01-24 00:00:00","endTime":"2024-01-31 00:00:00"},"eventAssets":[{"Placement":"button","Path":"game_home_icon.png"},{"Placement":"header","Path":"banner.png"},{"Placement":"background","Path":"dialogue.png"}],"rewards":[]}]}
